@@ -5,8 +5,8 @@
 ### RabbitMQ nima?
 
 RabbitMQ - xabarlar menjeri bo'lib, u Erlang dasturlash tilida yozilgan. U bir nechta xizmat(servis)lar o'rtasida
-ma'lumotlarni yuborish(xabarlar) uchun mo'ljallangan: bitta xizmat navbatga xabar joylaydi, boshqa xizmat esa o'sha
-xabarni qabul qiladi.
+ma'lumotlarni yuborish va qabul qilish uchun mo'ljallangan: bitta xizmat navbatga xabar joylaydi, boshqa xizmat esa
+o'sha xabarni qabul qiladi.
 
 ### RabbitMQni o'rnatish va ishga tushirish
 
